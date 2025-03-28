@@ -3,8 +3,8 @@ const AddTask = () => {
     return (
         <div>
             <button className="btn btn-primary w-full">Add new task</button>
-        </div>;
-    )
+        </div>
+    );
 };
 
 export default AddTask;
